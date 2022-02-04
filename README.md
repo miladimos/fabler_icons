@@ -1,5 +1,5 @@
 # flutter_tabler_icons
-
+https://github.com/bigbadbob2003/flutter_tabler_icons
 The [Tabler Icon Pack](https://github.com/tabler/tabler-icons) in Flutter
 
 Tabler icons version: 1.41.1
