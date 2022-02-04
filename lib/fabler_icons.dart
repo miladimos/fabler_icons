@@ -2,8 +2,8 @@ library fabler_icons;
 
 import 'package:flutter/widgets.dart';
 
-class TablerIcons {
-  TablerIcons._();
+class FablerIcons {
+  FablerIcons._();
 
   static const IconData twofa = IconData(0xeca0, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
   static const IconData threed_cube_sphere = IconData(0xecd7, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");

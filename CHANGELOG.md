@@ -1,3 +1,8 @@
+## [1.2.3] - 2021-2-05
+
+### Changed
+
+- Rename flutter_tabler_icons to fabler_icons file
 ## [1.2.2] - 2021-2-05
 
 ### Changed
