@@ -1,3 +1,15 @@
+## [1.2.2] - 2021-2-05
+
+### Changed
+
+- REfactoring
+
+## [1.2.0] - 2021-2-05
+
+### Changed
+
+- Update icons
+
 ## [1.1.1] - 2021-1-05
 
 ### Changed

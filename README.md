@@ -1,5 +1,5 @@
 # fabler_icons
-### !!! this repository forked of https://github.com/bigbadbob2003/flutter_tabler_icons 😉
+### !!! this repository forked of https://github.com/bigbadbob2003/fabler_icons 😉
 
 The official [Tabler Icon Pack](https://github.com/tabler/tabler-icons).
 
@@ -10,7 +10,7 @@ official Tabler icons version: 1.53
 dependencies:
   flutter:
     sdk: flutter
-  fabler_icons: ^1.1.2
+  fabler_icons: ^1.2.2
 ```
 
 ## Usage
@@ -26,4 +26,4 @@ class MyWidget extends StatelessWidget {
   }
 }
 ```
-![alt text](https://github.com/bigbadbob2003/flutter_tabler_icons/raw/master/.github/screenshot.png)
+![alt text](https://github.com/bigbadbob2003/fabler_icons/raw/master/.github/screenshot.png)
