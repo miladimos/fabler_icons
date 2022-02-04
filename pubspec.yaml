@@ -1,7 +1,7 @@
-name: flutter_tabler_icons
-description: Tabler Icons for flutter using icons from https://github.com/tabler/tabler-icons by Csaba Kissi @csaba_kissi
-repository: https://github.com/bigbadbob2003/flutter_tabler_icons
-homepage: https://github.com/bigbadbob2003/flutter_tabler_icons
+name: fabler_icons
+description: set of Tabler icons for flutter platforms
+repository: https://github.com/miladimos/fabler_icons
+homepage: https://github.com/miladimos/fabler_icons
 
 version: 1.1.1
 
