@@ -3,7 +3,7 @@
 
 The official [Tabler Icon Pack](https://github.com/tabler/tabler-icons).
 
-official Tabler icons version: 1.53
+official Tabler icons version: 1.106.0
 
 ## pubspec.yaml
 ```yml
