@@ -1,5 +1,5 @@
 # fabler_icons
-### !!! this repository forked of https://github.com/bigbadbob2003/fabler_icons 😉
+### !!! this repository forked of https://github.com/bigbadbob2003/flutter_tabler_icons 😉
 
 The official [Tabler Icon Pack](https://github.com/tabler/tabler-icons).
 
