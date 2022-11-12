@@ -3,14 +3,14 @@
 
 The official [Tabler Icon Pack](https://github.com/tabler/tabler-icons).
 
-official Tabler icons version: 1.106.0
+official Tabler icons version: 1.111.0
 
 ## pubspec.yaml
 ```yml
 dependencies:
   flutter:
     sdk: flutter
-  fabler_icons: ^1.2.2
+  fabler_icons: ^1.2.5
 ```
 
 ## Usage
@@ -20,8 +20,8 @@ import 'package:fabler_icons/fabler_icons.dart';
 class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return new IconButton(
-      icon: new Icon(FablerIcons.ambulance),
-      onPressed: () { print('Ambulance pressed'); }
+      icon: new Icon(FablerIcons.iconAddressBook),
+      onPressed: () { print('iconAddressBook pressed'); }
      );
   }
 }
