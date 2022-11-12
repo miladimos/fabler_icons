@@ -282,33 +282,57 @@ class FablerIcons {
   static const IconData iconBadgeVr = IconData(0xf55f, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
   static const IconData iconBadgeWc = IconData(0xf560, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
   static const IconData iconBadge = IconData(0xefc2, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBadges = IconData(0xefc3, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
   static const IconData iconBadgeOff = IconData(0xf0fb, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
   static const IconData iconBadgesOff = IconData(0xf0fc, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
   static const IconData iconBaguette = IconData(0xf3a5, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-
-
-
-
-
-  static const IconData ball_american_football = IconData(0xee04, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData ball_basketball = IconData(0xec28, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData ball_bowling = IconData(0xec29, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData ball_football_off = IconData(0xee05, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData ball_football = IconData(0xee06, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData ball_tennis = IconData(0xec2a, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData ball_volleyball = IconData(0xec2b, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData ban = IconData(0xea2e, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData bandage = IconData(0xeb7a, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData barcode = IconData(0xebc6, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData basket = IconData(0xebe1, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData battery_1 = IconData(0xea2f, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData battery_2 = IconData(0xea30, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData battery_3 = IconData(0xea31, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData battery_4 = IconData(0xea32, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData battery_automotive = IconData(0xee07, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData battery_charging = IconData(0xea33, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData battery_off = IconData(0xed1c, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
-  static const IconData battery = IconData(0xea34, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallAmericanFootballOff = IconData(0xf3c3, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallAmericanFootball = IconData(0xee04, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallBaseball = IconData(0xefa0, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallBasketball = IconData(0xec28, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallBowling = IconData(0xec29, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallFootballOff = IconData(0xee05, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallFootball = IconData(0xee06, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallTennis = IconData(0xec2a, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallVolleyball = IconData(0xec2b, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallonOff = IconData(0xf0fd, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallon = IconData(0xef3a, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallpenOff = IconData(0xf0b1, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBallpen = IconData(0xf06e, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBan = IconData(0xea2e, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBandageOff = IconData(0xf3c4, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBandage = IconData(0xeb7a, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBarbellOff = IconData(0xf0b2, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBarbell = IconData(0xeff0, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBarcodeOff = IconData(0xf0b3, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBarcode = IconData(0xebc6, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBarrelOff = IconData(0xf0fe, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBarrel = IconData(0xf0b4, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBarrierBlockOff = IconData(0xf0b5, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBarrierBlock = IconData(0xf00e, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBaseline = IconData(0xf024, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBasketOff = IconData(0xf0b6, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBasket = IconData(0xebe1, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBat = IconData(0xf284, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBathOff = IconData(0xf0ff, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBath = IconData(0xef48, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBattery1 = IconData(0xea2f, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBattery2 = IconData(0xea30, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBattery3 = IconData(0xea31, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBattery4 = IconData(0xea32, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBatteryAutomotive = IconData(0xee07, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBatteryCharging2 = IconData(0xef3b, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBatteryCharging = IconData(0xea33, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBatteryEco = IconData(0xef3c, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBatteryOff = IconData(0xed1c, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  static const IconData iconBattery = IconData(0xea34, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
+  
+  
+  
+  
+  
+  
+  
   static const IconData bed = IconData(0xeb5c, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
   static const IconData bell_minus = IconData(0xede2, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
   static const IconData bell_off = IconData(0xece9, fontFamily: 'tabler-icons', fontPackage: "fabler_icons");
