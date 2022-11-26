@@ -3,14 +3,14 @@
 
 The official [Tabler Icon Pack](https://github.com/tabler/tabler-icons).
 
-official Tabler icons version: 1.112.0
+official Tabler icons version: 1.113.0
 
 ## pubspec.yaml
 ```yml
 dependencies:
   flutter:
     sdk: flutter
-  fabler_icons: ^1.2.16
+  fabler_icons: ^1.2.20
 ```
 
 ## Usage
@@ -26,4 +26,5 @@ class MyWidget extends StatelessWidget {
   }
 }
 ```
+
 ![alt text](https://github.com/bigbadbob2003/fabler_icons/raw/master/.github/screenshot.png)
