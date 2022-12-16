@@ -10,7 +10,7 @@ official Tabler icons version: 1.117.0
 dependencies:
   flutter:
     sdk: flutter
-  fabler_icons: ^1.2.28
+  fabler_icons: ^1.2.30
 ```
 
 ## Usage
